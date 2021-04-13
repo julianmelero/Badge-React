@@ -10,6 +10,7 @@ import ReactDOM from "react-dom";
 
 import "./global.css";
 import BadgeNew from './components/pages/BadgeNew.jsx';
+import Badges from './components/pages/Badges.jsx';
 
 
 const container = document.getElementById("app");
